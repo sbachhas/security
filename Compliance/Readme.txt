@@ -1,1 +1,3 @@
 This folder contains resources related to Security Compliance...
+
+a) Adobe CCF (Common Control Framework) - http://www.adobe.com/pdf/Open_Source_CCF.pdf
